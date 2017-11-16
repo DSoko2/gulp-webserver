@@ -1,3 +1,9 @@
+# Preamble
+
+This is only a fork of the [gulp-webserver project](https://github.com/schickling/gulp-webserver), which solves a [issue regarding the killing of the webserver if livereload is enabled](https://github.com/schickling/gulp-webserver/issues/95). I fixed this issue and opened a [push request at the original project](https://github.com/schickling/gulp-webserver/pull/125). However, as long as the PR or an equivalent fix is not released by the originator, I am going to keep this fork close to the main project and deprecate it after the issue was solved in gulp-webserver itself.
+
+Cheers, Daniel
+
 gulp-webserver [![Build Status](http://img.shields.io/travis/schickling/gulp-webserver.svg?style=flat)](https://travis-ci.org/schickling/gulp-webserver) [![](http://img.shields.io/npm/dm/gulp-webserver.svg?style=flat)](https://www.npmjs.org/package/gulp-webserver) [![](http://img.shields.io/npm/v/gulp-webserver.svg?style=flat)](https://www.npmjs.org/package/gulp-webserver)
 ==============
 
